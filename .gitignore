@@ -2,3 +2,5 @@ node_modules
 temp
 **/.vscode
 **/**.alix
+**/.DS_Store
+**/build

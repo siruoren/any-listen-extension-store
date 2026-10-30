@@ -1,0 +1,29 @@
+{
+  "name": "lx-home",
+  "version": "0.1.0",
+  "keywords": [
+    "any-listen",
+    "any-listen-extension"
+  ],
+  "homepage": "https://github.com/any-listen/any-listen-extension-store",
+  "license": "Apache-2.0",
+  "author": "",
+  "type": "module",
+  "scripts": {
+    "build": "extension-kit --build",
+    "pub": "extension-kit --publish"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  },
+  "devDependencies": {
+    "@any-listen/extension-kit": "^0.1.17",
+    "@types/crypto-js": "^4.2.2",
+    "@types/node": "^25.9.8",
+    "eslint": "^9.39.4",
+    "oxfmt": "^0.70.0"
+  },
+  "engines": {
+    "node": ">= 22"
+  }
+}

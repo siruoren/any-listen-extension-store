@@ -1,0 +1,8 @@
+{
+  "description": "Ported LX Music home online features: music search, search tips, hot search words, songlist square (sorts/tags/details) and top songs (boards & details) for Kuwo, KuGou, QQ, NetEase and Migu sources. Music URLs are provided by installed online source extensions",
+  "kwName": "Kuwo",
+  "kgName": "KuGou",
+  "txName": "QQ Music",
+  "wyName": "NetEase",
+  "mgName": "Migu"
+}
